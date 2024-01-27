@@ -2,7 +2,7 @@
 - 👀 I’m interested in grahpics, fractals, math, geometry
 - 🌱 I’m currently learning to use graphics APIs
 - 💞️ I’m looking to collaborate on cool projects related to Generative Art
-- 📫 How to reach me? madhar.ziadh@stu.khas.edu.tr
+- 📫 How to reach me? madhar.ziadh@gmail.com
 - 😄 Pronouns: im a man
 - ⚡ Fun fact: no fun factzz 
 
